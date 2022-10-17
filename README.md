@@ -7,7 +7,8 @@ They have written an individual story concerning activities for morning, afterno
 
 
 
-#ERIC TORRALBA 
+# ERIC TORRALBA 
+
 Username : EricTorralba
 Branch name : ERIC
 collaborator stroy name : Eric_story
@@ -17,11 +18,11 @@ I was the first one to write in the group_story file, so i didn't have to pull i
 
 
 
-#ZINNERA TARIQ
+# ZINNERA TARIQ
 
 
 
-#MOHAMMADMAHDI HAJIMORADKHANI
+# MOHAMMADMAHDI HAJIMORADKHANI
 
 
 

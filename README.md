@@ -19,7 +19,11 @@ I was the first one to write in the group_story file, so i didn't have to pull i
 
 
 # ZINNERA TARIQ
- 
+Username : zinnera99
+Branch name: zinnera
+Colaborator story name: zinnera_story
+
+First of all, I created this repository, then I added the collaborators to the respository. After that, I created a branch called zinnera inside the main repository. Inside the branch I created a text file named zinnera_story, and added some sentences to this file. Then I merged my branch story to the main branch group story.
 
 
 

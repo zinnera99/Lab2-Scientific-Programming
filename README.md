@@ -3,7 +3,7 @@
 This repository has been created in order to learn how to work with GitHub. Specifically learning about push and pulls files among different group collaborators.
 This is a laboratory exercise for Scientific Programming subject included in Biomedical Data Science Master.
 Zinnera Tariq is the owner of this repository and she aswell as Mohammadmahdi Hajimoradkhani and Eric Torralba have created their own branch for each collaborator inside this repository.
-They have written an individual story concerning activities for morning, afternoon and night inside their own branch. These files have been merged to the main branch where all of them have been pasted to a main file called group_story in which it could be found the three colaborator's stories.
+They have written an individual story concerning activities for morning, afternoon and night inside their own branch. These files have been merged to the main branch where all of them have been pasted to a main file called group_story in which can be found the three colaborator's stories.
 
 
 
@@ -11,7 +11,7 @@ They have written an individual story concerning activities for morning, afterno
 
 Username : EricTorralba
 Branch name : ERIC
-collaborator stroy name : Eric_story
+collaborator story name : Eric_story
 
 Firstly i created my own branch inside Zinnera's repository, after that i started to write a story in a filed that is named "Eric_Story", this file was merged to the main branch once it was fully completed.
 I was the first one to write in the group_story file, so i didn't have to pull it from the main branch (it was already in my main branch, empty). I pasted my story and merged it to the main branch.
@@ -19,6 +19,11 @@ I was the first one to write in the group_story file, so i didn't have to pull i
 
 
 # ZINNERA TARIQ
+Username : zinnera99
+Branch name: zinnera
+Colaborator story name: zinnera_story
+
+First of all, I created this repository, then I added the collaborators to the respository. After that, I created a branch called zinnera inside the main repository. Inside the branch I created a text file named zinnera_story, and added some sentences to this file. Then I merged my branch story to the main branch group story. 
 
 
 

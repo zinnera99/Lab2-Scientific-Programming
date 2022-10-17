@@ -7,7 +7,8 @@ They have written an individual story concerning activities for morning, afterno
 
 
 
-#ERIC TORRALBA 
+# ERIC TORRALBA 
+
 Username : EricTorralba
 Branch name : ERIC
 collaborator stroy name : Eric_story
@@ -17,19 +18,17 @@ I was the first one to write in the group_story file, so i didn't have to pull i
 
 
 
-#ZINNERA TARIQ
+# ZINNERA TARIQ
 
 
 
-#MOHAMMADMAHDI HAJIMORADKHANI
+# MOHAMMADMAHDI HAJIMORADKHANI
+
+Username: mahdiESCI
+Branch name: mahdi
+Collaboratory story name: mahdi_story
+
+In this exercise, I created my own branch and wrote my own story. I then merged this file with the main. 
+I pulled the remaining files from the main branch andm kept the relevant files inside my branch. After adding the relevant information, I merged my branch with the main branch.
 
 
-
-
-The steps followed in this excercise have been:
--To create a own branch inside the group's repository
--Create a file in the main branch (that will be pulled in the collaborator branch) that will be named as "Group_story"
--Write a story for each collaborator inside each collaborator branch
--Merge this file to the main branch
--Paste the content of the collaborator story inside group story (in your own branch) and merge the changes to the main branch. That way the next collaborator will pull this new (modificated) version of the group_story file, with the new changes, and will do the same. Pasting its story inside the new version of the file and merge it.
-At the end what it is gotten is a file where all collaborator's stories all contained all together. 
